@@ -1,4 +1,5 @@
 
 iHello
 xxxx
-collaborator part of project 
+collaborator part of project
+both collaborator and owner resolved issue
