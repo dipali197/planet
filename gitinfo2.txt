@@ -1,0 +1,10 @@
+  189  https://www.github.com
+  190  git remote add origin https://github.com/dipali197/planet.git
+  191  git remote -v
+  192  git push origin master 
+  193  git push origin master 
+  194  git push origin master 
+  195  git push origin master 
+  196  git pull origin master 
+  197  git pull origin master 
+  198  history | tail -n 10 >gitinfo2.txt

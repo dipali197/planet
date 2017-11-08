@@ -1,2 +1,5 @@
 *.dat
+!m.dat
 results/
+!final.dat
+
